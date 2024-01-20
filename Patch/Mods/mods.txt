@@ -1,0 +1,7 @@
+Test : 0
+FlyingMountSPUsage : 1
+MapUnlocker : 1
+PlayerPointsPerLevel : 1
+PlayerSPUsage : 1
+PlayerWeight : 1
+RarePalAppearRate_AndLevel : 1
