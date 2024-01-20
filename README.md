@@ -1,11 +1,11 @@
 # PalWorlds Mod Patcher
 This is meant to be a Starter Pack, a basic organized setup for those who want to start tinkering
 
-FlyingMountSPUsage - NO SP COST While flying
-MapUnlocker - Unlock the entire map
-PlayerPointsPerLevel - Modify points increase per level
-PlayerSPUsage - No SP usage for player "except gliding for some reason"
-PlayerWeight - Weight modifier "Default value may get reset when increased via points"
+FlyingMountSPUsage - NO SP COST While flying,
+MapUnlocker - Unlock the entire map,
+PlayerPointsPerLevel - Modify points increase per level,
+PlayerSPUsage - No SP usage for player "except gliding for some reason",
+PlayerWeight - Weight modifier "Default value may get reset when increased via points",
 RarePalAppearRate_AndLevel - "Change Rare Rate Appearance rate and its level"
 
 Modify the respective mods main.lua for the different modifiers.
