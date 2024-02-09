@@ -1,4 +1,5 @@
-# PalWorlds Mod Patcher
+#OUTDATED- PalWorlds Mod Patcher - WARNING THE Tool is just a downloader for UE4SS and an unpacker for my Lua Mod setup. YOU CAN ALWAYS DO THIS MANUALLY! Please use this flow instead. https://github.com/localcc/PalworldModdingKit 
+I do not have the time to update the repo/build it every time UE4SS releases a new version because it would require me to test it to make sure it all still works. So I'm leaving this up just as a show-case in how you make a downloader and unzipper :)
 This is meant to be a Starter Pack, a basic organized setup for those who want to start tinkering
 
 FlyingMountSPUsage - NO SP COST While flying,
